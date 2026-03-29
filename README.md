@@ -12,31 +12,31 @@ Phase 1: Initial Star Schema designed for rapid OLAP querying.
 
 Phase 2: Refined into a Snowflake Schema (3rd Normal Form) to eliminate data redundancy and manage complex hierarchies.
 
-## Database Engine: SQL Server (T-SQL).
+**Database Engine** : SQL Server (T-SQL).
 
-## Data Strategy: Engineered synthetic datasets that mirror real-world multi-region retail workflows.
+**Data Strategy**: Engineered synthetic datasets that mirror real-world multi-region retail workflows.
 
-## BI Layer: Power BI semantic modeling using advanced DAX.
+**BI Layer**: Power BI semantic modeling using advanced DAX.
 
- ## Key Technical Features
-## Advanced SQL Engineering: Implementation of CTEs, Window Functions, and stored procedures for deep-dive analytics.
+## Key Technical Features
+**Advanced SQL Engineering**: Implementation of CTEs, Window Functions, and stored procedures for deep-dive analytics.
 
-## Normalized Product Hierarchy: Granular mapping from Department ➔ Category ➔ Product.
+**Normalized Product Hierarchy**: Granular mapping from Department ➔ Category ➔ Product.
 
-## Unified Geography Model: Shared dimensions for Customers and Stores via City ➔ Region normalization.
+**Unified Geography Model**: Shared dimensions for Customers and Stores via City ➔ Region normalization.
 
-## Time Intelligence: A robust Dim_Date dimension enabling YoY (Year-over-Year) and MTD (Month-to-Date) tracking.
+**Time Intelligence**: A robust Dim_Date dimension enabling YoY (Year-over-Year) and MTD (Month-to-Date) tracking.
 
-## Data Integrity: Enforced Referential Integrity through strict PK/FK constraint management.
+**Data Integrity**: Enforced Referential Integrity through strict PK/FK constraint management.
 
 ## Power BI Dashboards
 The Retail-Core-DWH architecture powers interactive visual storytelling:
 
-## Executive KPI Tracker: Real-time visibility into Total Revenue, AOV, and Profit Margins.
+**Executive KPI Tracker**: Real-time visibility into Total Revenue, AOV, and Profit Margins.
 
-## Regional Market Analysis: Geospatial insights into store performance across different territories.
+**Regional Market Analysis**: Geospatial insights into store performance across different territories.
 
-## Portfolio Intelligence: Category-level performance tracking and discount impact analysis.
+**Portfolio Intelligence**: Category-level performance tracking and discount impact analysis.
 
 👥 Customer Segmentation: Behavioral trends based on demographics and geographic location.
 
