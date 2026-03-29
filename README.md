@@ -8,9 +8,9 @@ This project highlights the technical evolution of a data model to meet modern a
 
 ## Dimensional Evolution:
 
-Phase 1: Initial Star Schema designed for rapid OLAP querying.
+**Phase 1**: Initial Star Schema designed for rapid OLAP querying.
 
-Phase 2: Refined into a Snowflake Schema (3rd Normal Form) to eliminate data redundancy and manage complex hierarchies.
+**Phase 2**: Refined into a Snowflake Schema (3rd Normal Form) to eliminate data redundancy and manage complex hierarchies.
 
 **Database Engine** : SQL Server (T-SQL).
 
@@ -73,11 +73,11 @@ Open the .pbix file in Power BI Desktop.
 Update Data Source Settings to link to your local SQL Server instance.
 
 ## Technologies Used
-SQL Server: Architecture, T-SQL Development, and Normalization.
+**SQL Server**: Architecture, T-SQL Development, and Normalization.
 
-Power BI: DAX Measures, Semantic Modeling, and Data Viz.
+**Power BI**: DAX Measures, Semantic Modeling, and Data Viz.
 
-Git: Version Control and Documentation.
+**Git**: Version Control and Documentation.
 
 ## Contributions & License
 This is an Open Source learning resource.
