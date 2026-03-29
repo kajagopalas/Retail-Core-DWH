@@ -38,7 +38,7 @@ The Retail-Core-DWH architecture powers interactive visual storytelling:
 
 **Portfolio Intelligence**: Category-level performance tracking and discount impact analysis.
 
-Customer Segmentation: Behavioral trends based on demographics and geographic location.
+**Customer Segmentation**: Behavioral trends based on demographics and geographic location.
 
 ## File Structure
 
