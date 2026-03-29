@@ -52,7 +52,7 @@ Bash
 Clone the Repository
 
 ## Bash
-git clone https://github.com/yourusername/Retail-Core-DWH.git
+git clone (https://github.com/kajagopalas/Retail-Core-DWH)
 ## Deploy Database
 
 Run scripts in /SQL_DDL using SQL Server Management Studio (SSMS).
