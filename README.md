@@ -38,18 +38,25 @@ The Retail-Core-DWH architecture powers interactive visual storytelling:
 
 **Portfolio Intelligence**: Category-level performance tracking and discount impact analysis.
 
-👥 Customer Segmentation: Behavioral trends based on demographics and geographic location.
+Customer Segmentation: Behavioral trends based on demographics and geographic location.
 
 ## File Structure
-Bash
-├── 📁 SQL_DDL          # T-SQL scripts for Schema, Tables, and Constraints
-├── 📁 Queries          # Advanced Analytics (Window Functions, CTEs, Joins)
-├── 📁 Stored_Procedures # Reusable business logic & Automation
-├── 📁 PowerBI          # .pbix files for Semantic Modeling & Visualization
-├── 📁 Docs             # ERD Diagrams and Data Dictionary
-└── 📄 README.md        # Project Documentation
-🔧 Getting Started
-Clone the Repository
+
+**Schema for queries Retail-Core-DWH**  -- SQL scripts to create and optimize tables, indexes, relationships
+
+**Queries/** -- Advanced SQL query scripts grouped by scenario or concept
+
+**Data/** -- Sample data insert scripts (insert_sample_data.sql)
+
+**Indexes/** – Scripts for creating and maintaining database indexes to improve query performance.
+
+**Stored_Procedures/** – Parameterized SQL scripts encapsulating business logic for reusable operations.
+
+**Views/** – Predefined SQL views for simplified reporting and analytics.
+
+**Docs/** – Contains CustomerOrdersDB_Dimensional_Model.jpg, the ER/Dimensional model diagram.
+
+**README.md** -- Project overview and instructions
 
 ## Bash
 git clone (https://github.com/kajagopalas/Retail-Core-DWH)
