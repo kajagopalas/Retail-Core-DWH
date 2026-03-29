@@ -30,7 +30,7 @@ This project highlights the technical evolution of a data model to meet modern a
 **Data Integrity**: Enforced Referential Integrity through strict PK/FK constraint management.
 
 ## Power BI Dashboards
-The Retail-Core-DWH architecture powers interactive visual storytelling:
+**The Retail-Core-DWH architecture powers interactive visual storytelling:**
 
 **Executive KPI Tracker**: Real-time visibility into Total Revenue, AOV, and Profit Margins.
 
