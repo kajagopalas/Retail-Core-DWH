@@ -82,8 +82,8 @@ Update Data Source Settings to link to your local SQL Server instance.
 ## Contributions & License
 This is an Open Source learning resource.
 
-License: MIT — Free to use, modify, and share.
+**License**: MIT — Free to use, modify, and share.
 
-Contribute: Fork the repo, add new analytical scenarios, and submit a PR!
+**Contribute**: Fork the repo, add new analytical scenarios, and submit a PR!
 
 ***This project reflects ongoing self-driven learning and serves as a robust foundation for real-world SQL analytics.***
